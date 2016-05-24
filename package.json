@@ -1,0 +1,56 @@
+{
+  "name": "react-native-gesture-recognizers",
+  "version": "0.2.3",
+  "description": "Gesture recognizer decorators for react-native",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepublish": "`npm bin`/eslint src && rm -rf lib && `npm bin`/babel src --out-dir lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanneslumpe/react-native-gesture-recognizers.git"
+  },
+  "keywords": [
+    "react-native",
+    "gesture",
+    "detection"
+  ],
+  "author": {
+    "name": "Johannes Lumpe",
+    "email": "johannes@lum.pe"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johanneslumpe/react-native-gesture-recognizers/issues"
+  },
+  "homepage": "https://github.com/johanneslumpe/react-native-gesture-recognizers",
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "babel-eslint": "^3.1.23",
+    "eslint": "^0.24.0",
+    "eslint-plugin-react": "^2.6.4"
+  },
+  "gitHead": "a418c14017b3905e907b7a6b3e6ec3dd790e8480",
+  "_id": "react-native-gesture-recognizers@0.2.3",
+  "_shasum": "7696710ca62cee2310a89337d00c56a793d8c1a9",
+  "_from": "react-native-gesture-recognizers@latest",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "johanneslumpe",
+    "email": "johannes@johanneslumpe.de"
+  },
+  "maintainers": [
+    {
+      "name": "johanneslumpe",
+      "email": "johannes@johanneslumpe.de"
+    }
+  ],
+  "dist": {
+    "shasum": "7696710ca62cee2310a89337d00c56a793d8c1a9",
+    "tarball": "https://registry.npmjs.org/react-native-gesture-recognizers/-/react-native-gesture-recognizers-0.2.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-gesture-recognizers/-/react-native-gesture-recognizers-0.2.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
