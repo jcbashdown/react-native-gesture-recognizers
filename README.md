@@ -1,3 +1,7 @@
+# This is temporary!
+
+And a **bad idea**. This is just a quick hack as part of getting my app working with react-native 26.1. The real repo is [here][RNGR] and I will fork it at some point soon.
+
 # react-native-gesture-recognizers
 
 React Native gesture recognizer decorators. Just decorate your component and easily respond to pans and swipes!
@@ -234,3 +238,5 @@ A custom style object, which will be applied to the wrapper view.
 
 ## Planned improvements
 * Allow combination of arbitrary gestures into a single decorator, in order to require less wrapping and being able to use gestures, which would interfere with each when claiming the responder status, side-by-side.
+
+[RNGR]: https://github.com/johanneslumpe/react-native-gesture-recognizers
